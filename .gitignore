@@ -1,0 +1,11 @@
+V1
+V2
+V3
+V4(latest version but not submited)/all_nba_2018_dataset.csv
+V4(latest version but not submited)/all_nba_2018_selections.csv
+V4(latest version but not submited)/all_nba_teams_dataset_project2.csv
+V4(latest version but not submited)/nba_player_dataset_project2.csv
+poetry.lock
+pyproject.toml
+Project_002_NBA_Salaries_Prediction.ipynb
+.vscode
